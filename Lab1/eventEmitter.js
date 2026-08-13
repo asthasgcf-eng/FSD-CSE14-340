@@ -20,6 +20,6 @@ task.off("exit", () => {
     console.log(`System is shutting down by ${name}`);
 })
 
-task.emit('greet','Astha Shukla');
+task.emit('greet','Astha Gupta');
 //task.emit('greet','khushi');
-//task.emit('greet','Diu');
+//task.emit('greet','Diu');4
