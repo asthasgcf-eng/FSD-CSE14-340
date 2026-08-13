@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 12,
+    "name": "watch",
+    "price": 20000,
+    "qty": 2
+  },
+  {
+    "id": 15,
+    "name": "rolex",
+    "price": 90000,
+    "qty": 2
+  }
+]
